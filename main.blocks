@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="dalRUcka05NFKII+wvsV">myImage</variable></variables><block type="device_forever" id="^:@L*h0faVwDX4;:A:{z" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="-!E5-~r[R9-Gvc3Q#p,@"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        # . # . #
+        `</field><next><block type="music_playable_play" id="%}+aIr_T}28Rv]:=_SW)"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id="NFt^5i+x,y$DY]+S6?5G"><value name="melody"><shadow type="melody_editor" id="boPb{t,3Ou~0LGoVDXe5"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="%qMK=`S.2;qBN_W5q/Y$"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow><block type="music_string_playable" id="Q:lONGTl=8}~ZEbbXP4J"><value name="melody"><shadow type="melody_editor" id="!O`2(G2y+LF9h:3${j[{"><field name="melody">"C5 B A B G E A - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="P{).!~s3[Lcj/7qipmsO"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">210</field></shadow></value></block></value><next><block type="device_show_leds" id="=%H8TDL__2W-vm=kLift"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        . # # # . 
+        # # # # # 
+        . # . # .
+        `</field><next><block type="music_playable_play" id=")dw1?=B57N[?UFcw+GEG"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id="-|60]N=NbEUf|eX+oRbK"><value name="melody"><shadow type="melody_editor" id="}{SH!n~9$;=F$Z)$KSPI"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="B@H=@d7Qto9^#eomJY!S"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow><block type="music_string_playable" id="0lkXqlD3[wF4Z8C?/vcL"><value name="melody"><shadow type="melody_editor" id="?oj7_m7HuDmzfhqdGirk"><field name="melody">"C5 B A B G E A - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="%TzFd2B/$qbbO)Xx]uF/"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">210</field></shadow></value></block></value><next><block type="device_show_leds" id="WAO{(NJo9zk[uXCv#W|a"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        # . # . #
+        `</field><next><block type="music_playable_play" id="T8WdX(x16Lb.ltd,7Cd."><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id="+e?F|)`*vbQCixHG]}%i"><value name="melody"><shadow type="melody_editor" id="H#u:a^1icp/Ck$l3p3,9"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="E(/K9HP)`!L#TsXly0zz"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow><block type="music_string_playable" id="cLhL)57/2hjh}*bC~iob"><value name="melody"><shadow type="melody_editor" id="Kers!=O9`*~@_v72*]lm"><field name="melody">"C5 B A B G E A - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="vuBHX.*lG/Y,ZuDSL0Aa"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">210</field></shadow></value></block></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
